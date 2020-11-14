@@ -14,6 +14,6 @@ Checking Symptoms
 News related to Coronavirus
 
 # Prototype Images 
-
+(relative/
 
 
