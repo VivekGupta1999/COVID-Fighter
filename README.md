@@ -50,7 +50,7 @@ News related to Coronavirus
 # Demo Video 
 [VideoLink](https://youtu.be/wtQcv6ZEFp4)  
 
-#Prototype LINK
+# Prototype LINK
 [ProtoType LINK](https://www.figma.com/proto/cjWYCbq7H6VTnCEgYV9hMg/Covid?node-id=1%3A2&viewport=600%2C415%2C0.7577173709869385&scaling=scale-down)
 
 
