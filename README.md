@@ -14,7 +14,7 @@ Checking Symptoms
 News related to Coronavirus
 
 # Prototype Images 
-![](https://github.com/VivekGupta1999/COVID-Fighter/commit/ab52cc0f39a74f6a82aef9554fa0cf8190c719d8#diff-1b063690161dfdbe421ba4cc1d0f27fd33fc3c42ef22baac740dcd2c892d3b6d)
-![](Screen Shot 2020-11-13 at 7.41.53 PM.png)
+![](1.png) 
+
 
 
